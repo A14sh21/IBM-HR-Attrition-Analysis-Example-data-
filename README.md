@@ -1,4 +1,4 @@
-#IBM HR Attrition And Performance Analysis
+# IBM HR Attrition And Performance Analysis
 This report provides a thorough examination of employee attrition at IBM in a data-centric 
 and visually interactive way. This work combined Python-based data preprocessing and 
 modeling, and Tableau dashboards to identify significant patterns and realize attrition risk 
